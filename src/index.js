@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import { ContactCard } from "./components/contactCard";
+import { ContactCard } from "./components/contactCard.jsx";
 import { Button } from "./components/button";
 
 const pageStyles = {
